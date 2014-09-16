@@ -1,3 +1,5 @@
 *.pyc
 *.py~
 *.e4p
+*.kate-swp
+.eric5project
