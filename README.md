@@ -14,5 +14,5 @@ To run a demonstration, do either of the following:
     
 The former uses only a command line, the latter runs a Qt interface (and requires PyQt4). Both accept the same arguments:
 
-* <port> is the port to listen on; if not specified, this defaults to 9652.
-* <host> is a host to try to synchronize with. In qtnt, this can be alternatively specified during runtime using a provided entry. Any number of hosts can be provided, including zero (which may be used to set up a server node with no initial connections).
+* `<port>` is the port to listen on; if not specified, this defaults to 9652.
+* `<host>` is a host to try to synchronize with. In qtnt, this can be alternatively specified during runtime using a provided entry. Any number of hosts can be provided, including zero (which may be used to set up a server node with no initial connections).
